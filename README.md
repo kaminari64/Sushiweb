@@ -33,3 +33,20 @@ Include screenshots of your webpage here.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/your_repository.git
+
+2. Navigate into the project directory::
+   ```bash
+   cd your_repository
+
+3. Install dependencies::
+   ```bash
+   npm install
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   
+5. Open your browser and navigate to http://localhost:3000 to view the webpage:
+   ```bash
+   cd your_repository
+
