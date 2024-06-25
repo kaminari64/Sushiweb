@@ -19,6 +19,11 @@ This project was created following the tutorial [Build a Sushi Restaurant Websit
 - **AOS Animations**: Integrated scroll animations using AOS for visual effects.
 - **Sushi Content**: Basic and engaging information about sushi culture.
 
+## Demo
+
+View the live demo of the Sushi Example Webpage:
+[Live Demo](https://kaminari64.github.io/Sushiweb/)
+
 ## Screenshots
 
 Include screenshots of your webpage here.
